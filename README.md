@@ -68,4 +68,12 @@ Use responsibly.
 ## 📜 License
 
 This project is provided as-is for learning purposes.  
-Feel free to fork or customise if you want! 
+
+I **DO NOT** responsible if your account get banned/remove/terminated
+
+Use with **caution**.
+
+---
+
+## 🤝 Contributing
+Feel free to fork the repository and submit pull requests to improve the extension!
