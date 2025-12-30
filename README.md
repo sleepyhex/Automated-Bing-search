@@ -1,4 +1,4 @@
-# Rewards Search Automator
+# Microsoft Rewards Search Automator
 
 > ⚙️ Educational browser automation & UI interaction project  
 > 🧪 Built for learning automation concepts, not for abuse
@@ -29,35 +29,36 @@ It is **not intended** to bypass safeguards, abuse reward systems, or violate an
 - Windows OS
 - Installed web browser (Chrome, Brave, Edge, etc.)
 
-Python dependency: pyautogui
+Python dependency: **pyautogui**
 
-Install with: pip install pyautogui
-
-
----
-
-## 🚀 How It Works (High-Level)
-
-1. Loads search queries from a text file
-2. Randomizes the order
-3. Opens a selected browser
-4. Navigates to a search engine
-5. Simulates typing and submitting search queries
-6. Waits between actions to demonstrate timing control
-
-This approach intentionally uses **UI automation** instead of APIs to highlight:
-- why UI automation is fragile
-- why real-world testing tools avoid pixel-based logic
-- how timing and focus affect automation reliability
+Install with this command below:
+```
+pip install pyautogui
+```
 
 ---
+
+## 📑 Usage
+
+Put the script and the search list inside a folder
+
+Then cd into it with **Command Promt**
+
+Run:
+```
+python script.py
+```
+
+Then type in the browser as your choice and search count
+
+Now sit back and enjoy the automation!
 
 ## ⚠️ Disclaimer
 
 > This project is for **educational and demonstration purposes only**.
 
 - Users are responsible for complying with the Terms of Service of any website or platform they interact with.
-- The author does not encourage automation abuse, reward exploitation, or policy violations.
+- I do not encourage automation abuse, reward exploitation, or policy violations.
 - This project is meant to help learners understand **automation concepts**, not to bypass safeguards.
 
 Use responsibly.
@@ -67,4 +68,4 @@ Use responsibly.
 ## 📜 License
 
 This project is provided as-is for learning purposes.  
-No warranty, no guarantees.
+Feel free to fork or customise if you want! 
