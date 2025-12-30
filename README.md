@@ -51,7 +51,7 @@ python script.py
 
 Then type in the browser as your choice and search count
 
-Now sit back and enjoy the automation!
+Now sit back and enjoy the automation :)
 
 ## ⚠️ Disclaimer
 
