@@ -17,9 +17,8 @@ It is **not intended** to bypass safeguards, abuse reward systems, or violate an
 - Configure number of automated searches
 - Load search queries from a text file
 - Randomized delays between actions
-- Keyboard-focused navigation (no hard dependency on mouse clicks)
+- Keyboard-focused navigation
 - Modular structure for easy extension
-- Simple and beginner-friendly Python code
 
 ---
 
