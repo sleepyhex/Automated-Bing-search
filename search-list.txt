@@ -1,0 +1,340 @@
+pc not turning on help pls
+my pc wont boot at all
+why pc black screen
+computer screen no signal
+gpu fans spin no display
+cpu fan spin no boot
+pc stuck on loading circle
+windows wont load stuck
+blue screen random pls help
+bsod irql not less or equal
+kernel security check fail fix
+pc froze hard reset safe
+windows repair loop
+automatic repair failed windows
+pc crash when gaming
+game crash no error
+pc restart itself randomly
+cpu at 100 percent idle
+ram usage high doing nothing
+disk 100 percent windows
+task manager looks sus
+pc lag after update
+windows update broke pc
+rollback windows update pls
+how uninstall windows update
+windows corrupted files fix
+sfc scannow stuck
+dism command not working
+pc slow after malware
+is this virus real
+antivirus found trojan false?
+windows defender deleting stuff
+how whitelist exe defender
+exe wont open blocked
+smartscreen blocked app
+bypass smartscreen safe
+registry edit safe?
+i broke registry help
+restore registry backup
+system restore failed
+restore point missing
+how factory reset pc
+reset pc keep files stuck
+reset pc fails
+clean install windows tutorial
+windows usb not booting
+rufus error iso
+uefi not detecting usb
+legacy boot missing
+secure boot disable how
+tpm 2.0 missing fix
+pc cant install windows 11
+bypass win11 req safe
+windows 11 slow af
+downgrade windows 11 to 10
+windows 10 eol panic
+activate windows watermark remove
+kms activation virus??
+windows key cheap legit
+pc says not activated
+bios update scary
+bios update fail help
+pc bricked after bios
+cmos reset how
+remove cmos battery
+date time reset bios
+ram not detected
+only 8gb detected not 16
+ram slot dead?
+ram mixing bad idea
+xmp enable crash fix
+ram speed stuck 2133
+dual channel not working
+cpu overheating idle
+cpu temp 90 idle
+thermal paste how much
+repaste cpu worth it
+cooler not mounted right
+aio pump not working
+fan curve setup help
+pc loud like jet
+coil whine annoying
+gpu temp 85 ok?
+gpu hotspot 100 panic
+gpu usage low gaming
+bottleneck ruining fps
+fps drop after update
+stuttering micro freeze
+frametime spike fix
+vsync input lag
+g sync flicker fix
+screen tearing pls help
+monitor ghosting test
+monitor black smearing va
+why colors washed out
+hdr looks bad windows
+displayport no signal
+hdmi no sound
+second monitor not detected
+extend display not work
+resolution stuck low
+nvidia control panel missing
+driver install failed
+nvidia driver black screen
+amd driver timeout
+ddu safe mode guide
+rollback gpu driver
+old gpu driver better?
+gpu artifact screen
+gpu dying signs
+used gpu mining safe
+gpu smells burnt
+psu clicking noise
+pc shuts down under load
+psu watt enough calc
+cheap psu danger
+pc sparks??
+electric smell pc
+motherboard lights meaning
+debug led stuck cpu
+beep codes help
+front panel pins wrong
+pc power button not work
+jump start motherboard
+short circuit fear
+case standoff missing bad
+pc wont sleep mode
+pc wakes randomly
+usb devices disconnect
+mouse lag stutter
+keyboard double typing
+usb overcurrent error
+usb port dead fix
+front usb not work
+audio crackling noise
+mic static sound
+headset not detected
+realtek audio missing
+audio driver reinstall
+mic too quiet
+discord mic lag
+discord crashing pc
+discord high cpu
+chrome eating all ram
+firefox slow now
+browser freeze tabs
+youtube buffering 1080p
+video lag audio desync
+hardware acceleration bad?
+turn off hw accel
+edge opens random
+browser hijacked pls help
+search redirect virus
+homepage changed itself
+ads pop up windows
+remove adware free
+malwarebytes safe legit
+spyware removing guide
+keylogger fear
+is pc spying on me
+webcam light turned on
+windows privacy settings sus
+disable telemetry windows
+hosts file edited
+unknown startup apps
+task manager unknown process
+svchost using cpu
+is svchost virus
+conhost.exe scary
+runtime broker high cpu
+windows explorer crashing
+file explorer not respond
+right click slow windows
+context menu lag
+windows search broken
+start menu not open
+taskbar disappeared
+icons missing desktop
+desktop flickering
+windows scaling blurry
+fonts look weird
+corrupted fonts fix
+missing dll error
+msvcp140 missing fix
+vcruntime missing pls
+app cant start error
+exe opens then closes
+game wont launch steam
+steam stuck updating
+steam download slow af
+steam disk write error
+verify files stuck
+epic games launcher trash
+epic launcher freeze
+riot client broken
+valorant vanguard error
+secure boot vanguard fix
+valorant fps trash
+cs2 stutter fix
+roblox fps drop help
+roblox cpu 100
+minecraft lag spike
+minecraft java vs bedrock fps
+shader pack kills fps
+optifine crash fix
+mods conflict crash
+java not responding
+allocate more ram mc
+minecraft exit code 1
+forge not install
+fabric loader error
+texture pack not load
+resource pack broke game
+save file corrupted
+game save lost pls
+controller not detected pc
+controller drift pc
+xbox controller disconnect
+bluetooth lag input
+bluetooth not find device
+bluetooth driver missing
+wifi driver gone
+ethernet not detected
+network adapter missing
+reinstall network driver
+no internet secured error
+dns not responding
+flush dns fix
+change dns faster
+packet loss gaming
+ping spikes every minute
+lag only at night
+router overheating
+isp throttling gaming
+vpn make lag worse
+vpn slow as hell
+free vpn sketchy
+proxy settings changed
+windows says no network
+ip config reset
+router factory reset fear
+port forwarding confusion
+nat type strict fix
+open nat pls
+upnp enable safe
+firewall blocking game
+windows firewall exception
+antivirus blocking internet
+turn off antivirus safe?
+pc clock wrong breaks ssl
+ssl error browser
+certificate invalid error
+time sync windows
+gen z brainrot tech starts here
+why pc acting goofy
+pc tweaking gone wrong
+bro i bricked it
+pc cooked fr
+my rig mid af
+why fps fell off
+setup fell off after update
+pc tweaking ruined everything
+fps fell to hell
+my pc tweaking arc ended
+tech youtuber lied
+optimization made it worse
+registry tweak scam
+fps boost pack virus
+gaming booster trash
+ram cleaner placebo
+pc placebo tweaks
+snake oil optimization
+is debloat worth it
+atlas os cooked pc
+ghost spectre sketchy
+custom windows iso risky
+lite windows missing stuff
+why store missing
+microsoft store broken
+reinstall store powershell
+powershell scary commands
+i ran wrong command
+terminal says access denied
+admin perms missing
+take ownership files
+cant delete folder access denied
+file in use cant delete
+unlocker tool safe
+ssd full but empty
+storage math wrong
+windows storage bug
+temp files huge
+pagefile.sys huge
+can delete pagefile?
+hiberfil.sys delete safe
+disable hibernate worth it
+sleep vs hibernate confusion
+laptop battery draining fast
+battery health bad
+calibrate battery windows
+laptop plugged not charging
+charger watt mismatch
+usb c charging slow
+throttle while charging
+thermal throttle cpu
+power limit throttle
+undervolt blocked update
+intel plundervolt patch
+amd pbo safe
+overclock crash fix
+overclock reset bios
+gen z ending searches
+why tech hate me
+why pc cursed
+am i hardware banned
+shadow banned fps
+is my pc sentient
+pc gaslighting me
+tech karma real
+my pc mad at me
+is pc haunted
+should i give up tech
+why nothing works
+pc decided no today
+pc choosing violence
+pc in its flop era
+my setup fell off
+is this normal fr
+chat am i cooked
+pc cooked beyond repair
+do i rebuild everything
+sell pc start over
+is laptop better than pc
+why mac just works
+should i switch to linux
+linux users lying
+arch users gatekeeping
+why tech never simple
+why updates ruin stuff
+tech fell off fr
