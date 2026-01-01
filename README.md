@@ -60,7 +60,7 @@ Now sit back and enjoy the automation :)
 - I do not encourage automation abuse, reward exploitation, or policy violations.
 - This project is meant to help learners understand **automation concepts**, not to bypass safeguards.
 - I **DO NOT** responsible if your account get banned/remove/terminated
-- 
+
 Use with **caution**.
 
 ---
