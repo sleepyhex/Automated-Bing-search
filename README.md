@@ -52,6 +52,8 @@ Then type in the browser as your choice and search count
 
 Now sit back and enjoy the automation :)
 
+---
+
 ## ⚠️ Disclaimer
 
 > This project is for **educational and demonstration purposes only**.
