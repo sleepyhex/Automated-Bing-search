@@ -45,7 +45,7 @@ Then cd into it with **Command Promt**
 
 Run:
 ```
-python script.py
+python main.py
 ```
 
 Then type in the browser as your choice and search count
@@ -59,17 +59,8 @@ Now sit back and enjoy the automation :)
 - Users are responsible for complying with the Terms of Service of any website or platform they interact with.
 - I do not encourage automation abuse, reward exploitation, or policy violations.
 - This project is meant to help learners understand **automation concepts**, not to bypass safeguards.
-
-Use responsibly.
-
----
-
-## 📜 License
-
-This project is provided as-is for learning purposes.  
-
-I **DO NOT** responsible if your account get banned/remove/terminated
-
+- I **DO NOT** responsible if your account get banned/remove/terminated
+- 
 Use with **caution**.
 
 ---
